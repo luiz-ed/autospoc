@@ -1,0 +1,7806 @@
+[
+  {
+    "name": "Novo Atendimento 2.0 - Abertura Contratos",
+    "AD": {
+      "exists": true,
+      "values": [
+        "MsalSpoc - Atendimento 2.0 - PRD"
+      ]
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3665
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Movimentação de Veículos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1232,
+        3571
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Movimentação de Veículos Retroativa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3138
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Solicitação de Abastecimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3164
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Orçamento de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2901
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Encerramento de Solicitação de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2379
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Tipos de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1890
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Motivos de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1889
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Agência Lavagem Externa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1888
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem Solicitação de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2380
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Solicitação de Lavagem (Por Período)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2383
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Lavagem Especial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2493
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Driver Ride Sharing",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2920
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Sinistros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1597
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Impressão de Contrato de Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2597
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Extrato Tag Pagamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2930
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Histórico de Retenção",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2880
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Multas em Negociação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3097
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Registro de Quilometragem Improdutiva",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3303
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Administração de CRLV Digital",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2937
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório - Sinistros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3126
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Emissão de Etiquetas Porta Documentos e Ch",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2991
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Exclusão de Pré Substituição",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2701
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Liberação de Veículo Ocupado",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2700
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Registro de Objetos Esquecidos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3302
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Devolução com TE",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2462
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Upload de CNH",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3034
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Reservas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3051,
+        1891
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3329
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Reserva com Motorista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2711
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Resumo de Reservas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2959
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alterar Cnpj Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3521
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "[PDC] - Contingência Checklist",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2565
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta CRV Venda",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2856
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "[PDC] - Consulta Checklists",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3019
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Pedido Item Seq.",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3012
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Pessoa Física (Novo!)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2927
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Pessoa Física (Novo!) FR",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2934
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2956,
+        2996,
+        3148,
+        1777
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Posicao Financeira",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3171
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "CTREB - Painel Faturas Vencidas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3137
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Dados em Lote",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3187
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem Cadastro Usuários",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3087
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Sinistro - Envolvimento de Terceiros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3271
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitar Agendamento (Novo Sistema)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3588,
+        730,
+        731,
+        732,
+        742,
+        744,
+        747,
+        748,
+        761,
+        764,
+        1238
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Contrato de Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2066
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Encerramento SA",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3167
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Entrega Recebimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3084
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Abertura de Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3022,
+        2995,
+        3354,
+        1683,
+        3334
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Composição de Regionais (GF)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1376,
+        2841
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Descancelamento de SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3133
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de Sinistro - GESIN",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3054,
+        1108,
+        1282
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta CRLV",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2981
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Documentos Digitalizados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3004,
+        1779
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento de recebimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3537
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Controle de Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3314
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção Regras Tarifas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3331
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Taxa de Retorno",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2864
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Carga de Preços de Tarifas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3597
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Substituição, Devolução e Extravio CRLV",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2918
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Transações Realizadas Via TEF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3206
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cad. de Contrato de Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3578
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento de Erros no Processo de Fatu",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2398
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Histórico dos Adicionais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2963
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "[PDC] - Cadastro Checklist",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2651
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Pesquisa de Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2482
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pesquisa de Veículos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3020
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pesquisa de Veículos (GF)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3327
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Email GESEG",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2413
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Posição da Frota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2921
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Atendimento 24H",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3042
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Reservas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3107,
+        3001
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Baixa de Recibo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        424,
+        592,
+        593,
+        620,
+        3252
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3000
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitação Materiais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3386
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Movimentações do Veículo (GF)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3059
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Movimentações do Veículo (RAC)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3021
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Agendamento Desativação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2607
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Posição Diária De Frota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2542
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Solicitação de Abastecimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3168
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Orçamentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2916,
+        803,
+        873
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Placa Disponibilizada",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3333
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - Cadastro Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3179
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2997,
+        424,
+        425,
+        503,
+        516,
+        519,
+        520,
+        560,
+        561,
+        563,
+        570,
+        657,
+        722
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Disponibilização de Carros Corporativos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3254
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Movimentações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3181
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Tela Avulsa de Monitoramento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3029
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitar Agendamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3016,
+        424,
+        730,
+        731,
+        732,
+        742,
+        744,
+        747,
+        748,
+        761,
+        764,
+        865,
+        1334,
+        1238
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GTF - Acompanhamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3121
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GTF - Relatório de Acompanhamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3241
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem de Fotos de Vistoria",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3028
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelamento de Sinistros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3312
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3086
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta carros recebidos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3110
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Fechamento de Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3023,
+        3646,
+        3024
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Registro Quilometragem Improdutiva",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2133
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização CNH",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2966
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Auditoria de Frota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        968,
+        2669,
+        3428
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Emissão de Boletos Bancários à Vista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2949
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Fechamento De Caixa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2965
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitoramento de Peças",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3341,
+        2352
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2628
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Novo Organizador de Arquivos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3589
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Fornecedores Localiza",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3124
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Fornecedores Gestão de Frota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3125
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aviso Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3138
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de contratos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1777
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Preço Referência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2381
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Checklist Gestor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2821
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - SS Administrativa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2468
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de Notificações de Trânsito",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3395
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem de Aditivo de Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3105
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Auditoria do Cadastro de Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3686
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Relação de Serviços",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2166
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Antecipação - Relatório",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2173
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Configuração de Particularidades do Client",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3043
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Vistoria de Retirada",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3681
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Lavagem Especial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2492
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Reservas Futuras",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1602
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitoramento - Gerenciador",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3634
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Veículos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3320
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Veículos (GF)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3208
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alteração de Quilometragem de Veículo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2776
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alterar Km da Disponibilização",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3253
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento de placa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1608
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Boletos à Vista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1932
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de reservas Fast",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2211
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Composição de regionais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1230,
+        1328,
+        2781
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Composição de regionais (GF)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1376,
+        1494,
+        2841
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG Gestão Casos Retorno Vencido",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3607
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG Gestão Casos RBP",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3625
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Gestão de Rastreadores",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3141
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Extrato Financeiro do Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3036,
+        3197,
+        3151
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Novo Aditivo de Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3432
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Validação de pedidos de carro provisório",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3119
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de fluxo de assinaturas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3193
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Devolução Antecipada",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3495,
+        516,
+        517
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "CTREB - Posição Financeira",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3085
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Faturas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3009
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Títulos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2400
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta FATAC",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1904,
+        3658
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Impressão de Faturas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3357
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Configuração Célula aprovação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3268,
+        424,
+        934,
+        1334,
+        1590,
+        1836
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Desfazer Garantia e Cortesia",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3292
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção de Centro Operativo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2742
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão de Usuários Conexão-Novo (Operações)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3675,
+        18
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Validações SS para Pendente de Envio (Oper",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        882,
+        1334,
+        2849
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão de Usuários (Operações)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2869
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório Demanda da Frota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2725
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento Solicitações CTREB",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1786
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "CTREB - Envio Relatórios Internos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3196
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "CheckList Centro de Distribuição",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2171
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório CheckList Centro de Distribuição",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2172
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão da tabela de indenização de sinistr",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2873
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Criar SS RAC",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3190
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitação de Inventário",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3226
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Possíveis Movimentações de Sequência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2469
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Contrato com Motorista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2702
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Atendimento Solicitação de Documentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2632
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório - Utilização Contratos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3127
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Pagamentos de Fornecedores",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1,
+        456,
+        1192,
+        1284,
+        3236
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Ocorrência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2346,
+        158,
+        159
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Digitação Nota",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3191,
+        1,
+        767,
+        768,
+        770,
+        1334
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Ocorrência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2346,
+        158,
+        159
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Pagamentos de Fornecedores",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1,
+        456,
+        1192,
+        1284,
+        3236
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Tela de Monitoramento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3083
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Identificador de Imagem - Rollout",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3512
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "AdmContratos - Tela Frota Ativa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3076
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de faturas desagrupadas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2775
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta do Faturamento - Analítico",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3383
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "KM entre Agências",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3549
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento de Pendências",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3008,
+        201,
+        202,
+        205,
+        206,
+        207,
+        209,
+        210,
+        243,
+        387,
+        480
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Permissões Improdutividade",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1878,
+        18,
+        198
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Conteúdo FAQ",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2660,
+        424,
+        517
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão de Sistemas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3640
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Faixa Valor Avarias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2496
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Grupo Modelo Avarias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2498
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Região Avarias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2500
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Comparativo Gama",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3542
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gama de Precificação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3157
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Importação de CVV",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3425
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Xx",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        9999
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem Gama",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3158
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem Regiões Avarias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2505,
+        514
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monte o Seu",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3094
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Opção Modelo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2012
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Parâmetros de cálculo Por UF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2480
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Visualizar Gama",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3304
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitações Reprocessamento Cancelamen A",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2684
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitações Reprocessamento Canc. Cobran M",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2686
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitações Reprocessamento Cancelamento T",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2687
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Motivo de Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3536
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatórios FATCEN",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2021
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório Controle RKI",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2674
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitoramento Avulso 2.0",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2295
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Zarp Acelera",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3346
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "ZarpWeb",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2900
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "CR - Reservas Sob Consulta",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3195
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Horário das Agências - antiga",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2801
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Central de Alertas - FRAI",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2907
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro age_agencia_fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2194
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Preço Volume",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2019
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de tarifa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3592
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção de Acordo comercial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2787
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção preço de motorista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2706
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção preços de tarifa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3211
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Manutenção tipo de motorista",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2614
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acordo Comercial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1721,
+        3282
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Parametrização de Autonomia de Desconto",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2254,
+        1411
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Distribuição de carro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2481
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Avarias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3664
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Relatório de Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3209
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Registro de Chamada 0800",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2777
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Telemetria",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3685
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GM - Cadastrar Serviços",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3375
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Serviços Agendados x Executados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2212
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro De Serviços de SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3595
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Peças e Serviços",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2754
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Locais de Operação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2878
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Complementação Inversão de SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3222
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pagamentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1618
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pagamentos TEF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3382
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Geração de Lote",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2432
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Controle de RKI",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2936
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Seleção de placas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3006,
+        1908
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Historico SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3035
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Veículos Especiais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2218
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Veículos a serem disponibilizados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3684
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de reservas FAST",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2216
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Pré Requisitos de Situações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2473
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Importar planilha de sublocação RAC",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2861
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem notificação devolução Carro Prov",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2552
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Usuário x Perfil TF24H",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3228
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de posições",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2439
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Informativos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1754,
+        2943
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitação de Serviço - Freelance",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3317
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento Fila Cálculo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3669
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Administração Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1689,
+        1696
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Sequências",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3306
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Inteligência de Vendas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2948
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Assistência à Clientes",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2814
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Dados em lote - Calculo de TDA",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2096
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Deleção de Pré Autorização",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2693
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta - Solicitações de Revisão",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1756
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório Checkout",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2020
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de Notif. de Trânsito - Novo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3330
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Abrir Sistemas Financeiros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1666
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cad. Fornecedor por Agência Filial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3584
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Contratos Cancelados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2698
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pedidos por Usuário",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2960
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Itens de estoque por modelo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3301
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Orçamentos Reservados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2806
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Entrada Manual de Taxas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2421
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Contrato Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3286
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitoramento Peça",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2352,
+        3341
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Associação Pacote",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2855
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Recebimento de Complemento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3518
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório - Situação Atual",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2977
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aceite Eletrônico",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2010
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cad. de Contrato de Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3578
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Substituição Cancelamento Carro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2107
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de multas Localiza - Detalhado",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2519
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Notificações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2476
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Lançamento Pré Estorno Pendente",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3577
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gerar Slip",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3279
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acomp. de Faturas não Processadas Impressa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3398
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG – Gestão de Rastreadores – NOVA!",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3339
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG – Agendamento em lote – NOVA!",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2899
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Gestão de Cercas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3670
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Réguas Retorno Vencido",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2859
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Réguas Retorno Vencido (NOVA)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3687
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Auditoria de Recuperação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2284
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Dados Retorno Vencido",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3599
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Árvores de Decisão Retorno Vencido",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2858
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Portal de Inconsistências - Consulta",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3061
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acesso ao Portal Localiza",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1825
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Script",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3351
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Histórico de Reservas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2811
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento pedido",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2876,
+        2271
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelar e Associar",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3488
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Clientes",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2782
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de contratos FAST",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2217
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alteração de Contratos - Vendas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2067
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Grupos do Faturamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1912
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Exclusão de Movimentação Indevida",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2738
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Reemissão Registro Quilometragem Improduti",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3473
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Cadastros Crud Generico",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3200
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Horário Funcionamento das Agências",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3609
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de motivo da movimentação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1983
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de preço de referência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2324
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Sinistro Contrato Mensal",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3544
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelamento de Contrato de Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2720
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3635,
+        411,
+        872,
+        1580
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhar Inventário",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2348
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cliente Grupo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3106
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cad. De Periodicidades De Serviços",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3555
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Auditorias",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3484
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Adicional",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2430
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Inventário de Adicionais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3122
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Carga Tier",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1620
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Visualizar Regras Tarifas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2829
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Perfil Desativação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2608
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta - Perfil de Desativação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1765
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastra Motivo Isenção de Multa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2768
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastrar Notificação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2039
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Cidade",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3198
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Municípios - Denatran",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2183
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Órgãos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2431
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de combustíveis",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3037
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Administração Solicitação de Materiais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2407
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório - Previsão Demanda",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2978
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acerto na Classificação do Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1625
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta carros em manutenção priorização",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3055
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Fechamento Semanal",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1933
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Lançamento de Depósitos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1938
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Lançamento de Despesas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1939
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório Semanal de Lançamentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1934
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - REA BO",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3101
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aditivos Contratuais e Concessões Comercia",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3136
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Checklist Carro Zero",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2144
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Interna",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1964
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - Documentos do cliente",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3072
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Compra de Peça",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3498
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Compra de peças(Novo)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2882
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3519
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Reservas Operações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1623
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitor de Multas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3170
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitor de Taxas - Renovação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3420
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "[PDC] - Gestão Protocolo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2586
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de SLA",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1789
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Centralização de SL para Pagamento (CCP)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2384
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Centralizadas Pendentes",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3169
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Centralizadas Pendentes SL",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2410
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Conferência e Liberação de NF Lav",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1886
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Contrato Franqueado",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1646
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Histórico de Categoria",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2452
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Histórico de Transação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1999
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Perfil Evolução por Filial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3562
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestao Sinistro Filial",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3139
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Auditoria de SS Frota Improdutiva",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2715
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acesso Permissão de Usuário a Outras Filiai",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2377
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Flutuação de Carteira de Clientes",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2791
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consultar Comissões",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2386
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consultar Contratos ASCLI",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2387
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Notas Fiscais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2790
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Completo de PJ",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3328
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Emissores",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2770
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Condições Gerais Contrato",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2970
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Cidade Sql",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2168
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Infrações de Trânsito",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2174
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Tipo de Prefixação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2167
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Variações GF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2175
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Histórico Notificações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2177
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Enviar Comunicação Driver",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2178
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Enviar Comunicação Driverx",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2178
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Migração Peça RAC - GF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2169
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Migração Serviço RAC - GF",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2170
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Motivo Recusa Digitacao (Despesas)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2165
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "NR - Parametrização Notifi Incentivo Cad",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2164
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - Contrato Fornecedor",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3178
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão da Tag",
+    "AD": {
+      "exists": false,
+      "values": [
+        "MsalSpoc-Passfrontend-Prd-consulta-tag"
+      ]
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3108,
+        2897
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento LocalizaFast",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2088
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Cliente",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1694
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG - Gestão Casos REP",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3337
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Balcão de Atendimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2741
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Carros FAST em vaga",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2209
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Liberação de Multas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2364
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acerto de Faturamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2522
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Devolução",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2639
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitor autuações (Detran-MG)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2521
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Reembolso - Marca Desmarca SSs Não Faturáv",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3444
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relação Veículos para Retorno",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3558
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cálculo Faturamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2584
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelar Nota/Fatura",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3440
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Ocorrências de Sinistro - Nova",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3291
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "GESEG Gestão Casos RBP",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3625
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem de Ações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3095
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastra Motivo Contrato Contingência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2689
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelamento de Substituição",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3049
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acertar Última Movimentação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2751
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento Disponibilização",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2472
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alteração de categoria",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2447
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acesso ao Portal Operações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3045
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Movimentação de Adicionais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2964
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Ocorrência de Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3561
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Disponibilizar Faturamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2553
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Digitalização - SS",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2997,
+        424,
+        425,
+        503,
+        516,
+        519,
+        520,
+        560,
+        561,
+        563,
+        570,
+        657,
+        722
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3115,
+        3146,
+        1903
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consultar",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1960
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Dados De Reembolso",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3442
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelar/Excluir Cálculo",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3441,
+        424
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acomp. Fila Geração de Faturas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3343
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Bloq. Desbloq. Faturamento - Cadastrar",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3514
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Bloq. Desbloq. Faturamento - Listar",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3515
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acionamento Uber",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3605
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Concessões VIP e Super VIP",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3307
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de KM",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2998
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3047,
+        3116
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3235
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Checklist cadastro Agência",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2203
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aprovação Solicitação de Materiais",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2401
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Movimentações",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3181
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gerenciamento de Vagas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2456
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Nova Solicitação de Manutenção",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3426
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Situação Solicitação Serviço",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1763
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Situação do Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3531
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aprovação Reativação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2154
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Ajuste na Solicitação de Serviço",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2585
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Envio de documentos para assinatura eletrô",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3284
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Alterar Tipo Segmento Comprador - Placa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2832
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitar Desativação Bloqueio Reativação",
+    "AD": {
+      "exists": true,
+      "values": [
+        "hubac-desativacao-filial"
+      ]
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3526
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aprovação Orçamentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3516,
+        652,
+        653,
+        654,
+        655,
+        658,
+        666,
+        686,
+        859
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Envio Notas Fiscais Compras Administrativa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3617
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem de Modelos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3114
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de reservas Fast",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2211
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Reservas_Franchising",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3490
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Reservas_Piloto",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3150
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Horário De Funcionamento Das Agên",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3472
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Placa Mercosul",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3535
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitar Agendamento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3016,
+        424,
+        730,
+        731,
+        732,
+        742,
+        744,
+        747,
+        748,
+        761,
+        764,
+        865,
+        1334,
+        1238
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Solicitar Agendamento - BH (Novo Sistema)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2830
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Acompanhamento de Erros no Processo de Fatu",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2398
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Administração de Documentos",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2941
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Agrupamento de Faturas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2331
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de Multas de Trânsito",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1944
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Análise de Sinistro - FATAC",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3553
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aprovação Execução Ação",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3096
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Pessoa Física",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3176,
+        3239
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Gestão de Configurações e Parametros",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2423
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Agendamento Manutenção",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        19,
+        1280,
+        1290,
+        1370,
+        1264,
+        1155,
+        1229,
+        1070,
+        1072,
+        873,
+        864,
+        855,
+        846,
+        818,
+        803,
+        800,
+        791,
+        784,
+        764,
+        747,
+        731,
+        732
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Atendimento 2.0 Abertura Contratos",
+    "AD": {
+      "exists": true,
+      "values": [
+        "MsalSpoc - Atendimento 2.0 - PRD"
+      ]
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3621
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Fechamento de Contrato - AM",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2318
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Atendimentos do ASCLI",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2935
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Solicitação de Serviço Por Per",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3315
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Abertura de Contrato - AM",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1686
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Listagem Solicitação Abastecimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3162
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Motivos de Abastecimento",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1882
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Resumo Abastecimento (Bomba Interna)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3166
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Aprovação de divergência de SA",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3402
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Rastreamento de Veículo - NOVO",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2952
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta Aviso Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3305
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Km Excedente",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3018
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro de Permissão Sinistro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3523
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Consulta de Reembolso",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3225
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cadastro Solicitação de Lavagem",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2382,
+        393
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Relatório de Solicitação de Lavagem (Per)",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2383
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "WebMail Agencia",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2931
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Xx",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        9999
+      ],
+      "gf": {
+        "exists": false,
+        "values": []
+      }
+    }
+  }
+]
