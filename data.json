@@ -37,25 +37,6 @@
     }
   },
   {
-    "name": "Movimentação de Veículos Retroativa",
-    "AD": {
-      "exists": false,
-      "values": []
-    },
-    "spocValues": {
-      "critical": [],
-      "nonCritical": [
-        3203,
-        1233,
-        1328
-      ],
-      "note": {
-        "exists": false,
-        "values": []
-      }
-    }
-  },
-  {
     "name": "Cadastro Solicitação de Abastecimento",
     "AD": {
       "exists": false,
@@ -7741,8 +7722,76 @@
         393
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                2732,
+                392,
+                556,
+                612,
+                663,
+                753
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Movimentação de Veículos Retroativa",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3203,
+        1233,
+        1328
+      ],
+      "note": {
+        "exists": true,
+        "type": [
+          {
+            "role": "Técnico",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                3203,
+                1233,
+                1328
+              ]
+            }
+          },
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                3203,
+                1233,
+                1328
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                3203,
+                1233,
+                1328
+              ]
+            }
+          }
+        ]
       }
     }
   },

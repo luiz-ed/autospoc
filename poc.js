@@ -1,33 +1,107 @@
 const DIRTY_ENTRY_STRING = `
-SPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
+SPOC - Movimentação de Veículos RetroativaSPOC - Cadastro Solicitação de LavagemSPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
 `;
-
-const { readData, writeData } = require('./fsUtils.js');
+/*
+SPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
+SPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
+*/
+import { readData, writeData } from './fsUtils.js';
 
 const sanitizeEntryString = (inputString) => inputString
-  .split(/SPOC - /) // Splits "SPOC - "
-  .filter(desc => desc.trim() !== "") // Empty entries
-  .map(desc => desc.trim()); // to be shure
+.split(/SPOC - /) // Splits "SPOC - "
+.filter(desc => desc.trim() !== "") // Empty entries
+.map(desc => desc.trim()); // the \n at the end
 
-async function processAndMatch(imputString) {
-  const SOURCE_OF_TRUTH = await readData();  
-  const screensDemanded = sanitizeEntryString(imputString);
+const SCREENS_DEMANDED = sanitizeEntryString(DIRTY_ENTRY_STRING);
+const SOURCE_OF_TRUTH = await readData();
 
-  const screensMatched = [];
-
-  screensDemanded
-  .forEach((screenDemandedName) => 
-    screensMatched.push(
-      ...SOURCE_OF_TRUTH.filter((screenData) => screenData.name === screenDemandedName)
-        .map((matched) => matched.spocValues.nonCritical))
-  )
-return screensMatched.flat();
+const getElementsByName = (itensEntry) => {
+  return SOURCE_OF_TRUTH.filter((screenData) => {
+    return itensEntry.find((screenDemanded) => screenData.name === screenDemanded)
+  });
 }
-async function main(){
-const runned = await processAndMatch(DIRTY_ENTRY_STRING);
-await writeData(runned)
 
-return;
+const minorSpocValuesByName = () => {
+  const nonCriticalSpocValues = getElementsByName(SCREENS_DEMANDED)
+    .map((el) => el.spocValues.nonCritical);
+  return nonCriticalSpocValues.flat()
+}
+
+const roleNotesFormatter = () => {
+  const screensDemandedData = getElementsByName(SCREENS_DEMANDED);
+
+  const isThereAnyNote = screensDemandedData.find(({ spocValues: { note } }) => note.exists === true)
+
+  if (!isThereAnyNote) {
+    return false;
+  }
+
+  const screensDemandedThatHasRolesData = screensDemandedData
+    .filter(({ spocValues: { note } }) => note.exists === true);
+    
+  const readyToReadRoleNotes = screensDemandedThatHasRolesData.map(({name, spocValues: { note: { type } }})=> {
+    const deserialize = type.map(( { role, spocValues: { critical, nonCritical } } ) => {
+      return {
+        role: role,
+        nonCriticalSpocValues: nonCritical,
+        criticalSpocValues: critical
+      }
+    })
+
+    return {
+      screen: name,
+      deserialize
+    }
+  });
+
+return readyToReadRoleNotes;
+}
+
+function outputRoleNotes(dirty) {
+  const data = roleNotesFormatter();
+
+  if (!data) {
+    return false
+  }
+  
+  const result = [];
+
+  dirty = data
+
+  dirty.forEach(({ screen, deserialize }) => {
+    // "deserialize" pode ser um array de arrays de objetos
+    deserialize.flat().forEach(({ role, nonCriticalSpocValues, criticalSpocValues }) => {      
+      let line = `[${role}] ${screen}: ${nonCriticalSpocValues.join(';')}`;
+
+      if (criticalSpocValues && criticalSpocValues.length > 0) {
+        line += ` (CRÍTICOS ${criticalSpocValues.join(', ')})`;
+      }
+
+      result.push(line);
+    });
+  });
+
+  return result;
+}
+// outputRoleNotes(SUJO);
+
+
+async function main(){
+  const notesChecker = outputRoleNotes(DIRTY_ENTRY_STRING);
+  
+  if (!notesChecker) {
+    return minorSpocValuesByName();
+  }
+  
+  const minorRun = minorSpocValuesByName();
+  
+  const output = minorRun.concat(notesChecker)
+
+  
+  
+  
+  
+return await writeData(output)
 }
 main();
 

@@ -1,8 +1,18 @@
-const { readFile, writeFile } = require('node:fs/promises');
-const { resolve } = require('node:path');
+import { readFile, writeFile } from 'node:fs/promises';
+import { resolve, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const DATA_PATH = './data.json';
 const WRITE_PATH = "./bucha-de-canhao-da-poc.txt"
+// const { readFile, writeFile } = require('node:fs/promises');
+// const { resolve } = require('node:path');
+
+
+// const DATA_PATH = './data.json';
+// const WRITE_PATH = "./bucha-de-canhao-da-poc.txt"
 
 
 async function readData(){
@@ -37,4 +47,4 @@ async function writeData(newData){
   }
 }
 
-module.exports =  { readData, writeData };
+export { readData, writeData };
