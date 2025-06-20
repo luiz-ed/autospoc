@@ -4497,23 +4497,6 @@
     }
   },
   {
-    "name": "Cad. de Contrato de Contingência",
-    "AD": {
-      "exists": false,
-      "values": []
-    },
-    "spocValues": {
-      "critical": [],
-      "nonCritical": [
-        3578
-      ],
-      "note": {
-        "exists": false,
-        "values": []
-      }
-    }
-  },
-  {
     "name": "Substituição Cancelamento Carro",
     "AD": {
       "exists": false,
@@ -8638,7 +8621,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Posição Financeira de Clientes",
     "AD": {
       "exists": false,
       "values": []
@@ -8646,7 +8629,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2792,
+        1254,
+        1328
       ],
       "note": {
         "exists": false,
