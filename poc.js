@@ -1,11 +1,15 @@
 const dirtyEntryString = `
-SPOC - CatingaSPOC - JacaréSPOC - Cadastro Solicitação de LavagemSPOC - Movimentação de Veículos RetroativaSPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
+SPOC - CaatingaSPOC - JacaréSPOC - Cadastro Solicitação de LavagemSPOC - Movimentação de Veículos RetroativaSPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
 `;
 /*
+SPOC - CaatingaSPOC - JacaréSPOC - Cadastro Solicitação de LavagemSPOC - Movimentação de Veículos RetroativaSPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
 SPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
 SPOC - Cadastro Solicitação de LavagemSPOC - Movimentação de Veículos RetroativaSPOC - Atendimento 24HSPOC - Aviso SinistroSPOC - Consulta FornecedorSPOC - Consulta Movimentações do Veículo (RAC)SPOC - Consulta OrçamentosSPOC - Digitalização - SSSPOC - Fila de Aprovação de Orçamentos
 */
 import { readData, writeData } from './fsUtils.js';
+
+import xlsx from "xlsx";
+
 
 const sanitizeEntryString = (inputString) => inputString
 .split(/SPOC - /) // Splits "SPOC - "
@@ -94,7 +98,7 @@ function outputRoleNotes(dirty) {
 }
 
 
-async function main(){
+export default async function main(){  
   const notFound = getElementsByName(SCREENS_DEMANDED).notFound;
   const notesChecker = outputRoleNotes(SCREENS_DEMANDED);
   
@@ -112,13 +116,38 @@ async function main(){
     output = output.concat(['', ''], notFound.map(name => `Tela "${name}" não encontrada!!`));
   }
 
-return await writeData(output)
+return output;
+// return await writeData(output)
 }
-main();
 
+async function parseFleet(){
+const filePath = "./RelatorioNetAdmin - 2025-07-04T114912.788.xlsx";
 
-/*
-TODO #2
+  const wb = xlsx.readFile(filePath);
+  const ws = wb.Sheets[wb.SheetNames[0]];
 
-Processar os GF, mas cortando todos os críticos, com "sup" no nome.
-*/
+  const range = xlsx.utils.decode_range(ws['!ref']);
+  const fleetData = [];
+
+  for (let row = 6; row <= range.e.r; row++) {
+    const cellAddress = { c: 0, r: row };
+    const cellRef = xlsx.utils.encode_cell(cellAddress);
+    const cell = ws[cellRef];
+    if (cell 
+        && cell.v 
+        !== undefined 
+        && cell.v 
+        !== null 
+        && String(cell.v).trim() 
+        !== "")
+         {
+      fleetData.push(cell.v);
+    }
+  }
+
+  import('fs').then(fs => fs.unlinkSync(filePath));
+
+  return await writeData(fleetData.filter(el => !el.includes('Tf24SUP')))
+}
+
+parseFleet();
