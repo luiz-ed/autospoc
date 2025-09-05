@@ -120,7 +120,7 @@ return output;
 // return await writeData(output)
 }
 
-async function parseFleet(){
+export async function parseFleet(){
 const filePath = "./RelatorioNetAdmin - 2025-07-04T114912.788.xlsx";
 
   const wb = xlsx.readFile(filePath);
@@ -151,3 +151,20 @@ const filePath = "./RelatorioNetAdmin - 2025-07-04T114912.788.xlsx";
 }
 
 parseFleet();
+
+export { parseFleet, main };
+/*
+Todo #3:
+
+Segmentar a observação de acesso para ao invés de apenas cargos, dispor tanto
+cargos quanto funcionalidades. Tentar harmonizar os dois, ex:
+
+A partir da model:
+  Funcionalidade {}
+  Cargo {}
+
+E a funcionalidade de rejeição de orçamentos na tela consulta orçamentos;
+
+Junte a observação de cargo e funcionalidade para um resultado final do tipo
+[Consulta Orçamentos][Supervisor][Funcionalidade][@Rejeitar Orçamentos]: 1370 
+*/

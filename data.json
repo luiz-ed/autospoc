@@ -147,11 +147,22 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2380
+        2380,
+        393
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                392
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -198,11 +209,56 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2920
+        2920,
+        12,
+        55,
+        112,
+        113,
+        116,
+        186,
+        293,
+        315,
+        338,
+        378,
+        394,
+        868,
+        900
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                894,
+                160
+              ]
+            }
+          },
+          {
+            "role": "Help Desk",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1311,
+                5,
+                6
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                61,
+                114
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -232,7 +288,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2597
+        2597,
+        1325
       ],
       "note": {
         "exists": false,
@@ -402,7 +459,10 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3302
+        3302,
+        733,
+        957,
+        1284
       ],
       "note": {
         "exists": false,
@@ -454,11 +514,107 @@
       "critical": [],
       "nonCritical": [
         3051,
-        1891
+        1891,
+        55,
+        112,
+        113,
+        378,
+        1389
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "ASCLI - Salesforce - CallCenter",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1284
+              ]
+            }
+          },
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                400,
+                60,
+                91,
+                705
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Relatório de Reservas_Franchising",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2950,
+        201,
+        203,
+        205,
+        206,
+        210,
+        254,
+        255,
+        256,
+        325
+      ],
+      "note": {
+        "exists": true,
+        "type": [
+          {
+            "role": "ASCLI - Salesforce - CallCenter",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1284
+              ]
+            }
+          },
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                325,
+                207,
+                209,
+                257
+              ]
+            }
+          },
+          {
+            "role": "Gerente",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                325,
+                202,
+                253,
+                266
+              ]
+            }
+          },
+          {
+            "role": "[SQUAD MegaZord] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1433
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -472,7 +628,8 @@
       "critical": [],
       "nonCritical": [
         3329,
-        846
+        846,
+        1098
       ],
       "note": {
         "exists": true,
@@ -485,6 +642,15 @@
                 847,
                 859,
                 1290
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
               ]
             }
           }
@@ -535,11 +701,32 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3521
+        3521,
+        767
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                769
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                780
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -569,7 +756,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2856
+        2856,
+        1417,
+        1419
       ],
       "note": {
         "exists": false,
@@ -604,7 +793,6 @@
       "critical": [],
       "nonCritical": [
         3012,
-        424,
         516,
         517,
         519,
@@ -631,11 +819,44 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2927
+        2927,
+        55,
+        112,
+        113,
+        136,
+        378,
+        415,
+        868,
+        1397
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                160,
+                705,
+                776
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1486,
+                1,
+                682
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -668,11 +889,38 @@
         2956,
         2996,
         3148,
-        1777
+        1777,
+        46,
+        55,
+        106,
+        112,
+        113,
+        127,
+        321,
+        378,
+        293,
+        415,
+        585,
+        1138,
+        1284,
+        1389
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                160,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -737,7 +985,6 @@
       "critical": [],
       "nonCritical": [
         3087,
-        424,
         514,
         516,
         517,
@@ -762,8 +1009,8 @@
       "critical": [],
       "nonCritical": [
         3271,
-        424,
-        519
+        519,
+        520
       ],
       "note": {
         "exists": false,
@@ -897,11 +1144,25 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3133
+        3133,
+        722,
+        727,
+        738
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                720
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -916,11 +1177,28 @@
       "nonCritical": [
         3054,
         1108,
-        1282
+        1282,
+        116,
+        731,
+        1107,
+        1109,
+        1278,
+        1284,
+        1341
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1209,8 +1487,27 @@
         2413
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                476
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1497
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1258,7 +1555,6 @@
         36,
         37,
         186,
-        424,
         787
       ],
       "note": {
@@ -1277,11 +1573,43 @@
       "critical": [],
       "nonCritical": [
         3107,
-        3001
+        3001,
+        46,
+        55,
+        106,
+        112,
+        113,
+        378,
+        423,
+        1389,
+        415
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                705
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                1448,
+                1541
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1294,7 +1622,6 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        424,
         592,
         593,
         620,
@@ -1316,7 +1643,6 @@
       "critical": [],
       "nonCritical": [
         3000,
-        424,
         516,
         517,
         519,
@@ -1344,7 +1670,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3386
+        3386,
+        457
       ],
       "note": {
         "exists": false,
@@ -1361,7 +1688,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3059
+        3059,
+        1239
       ],
       "note": {
         "exists": false,
@@ -1412,7 +1740,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2542
+        2542,
+        1324
       ],
       "note": {
         "exists": false,
@@ -1448,7 +1777,23 @@
       "nonCritical": [
         2916,
         803,
-        873
+        873,
+        516,
+        517,
+        519,
+        520,
+        590,
+        625,
+        626,
+        652,
+        669,
+        722,
+        731,
+        767,
+        784,
+        806,
+        814,
+        822
       ],
       "note": {
         "exists": true,
@@ -1475,11 +1820,31 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3333
+        3333,
+        12
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                11
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1527,7 +1892,6 @@
       "critical": [],
       "nonCritical": [
         3181,
-        424,
         593,
         619
       ],
@@ -1547,7 +1911,6 @@
       "critical": [],
       "nonCritical": [
         3029,
-        424,
         593,
         620,
         722,
@@ -1570,11 +1933,34 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3121
+        3121,
+        536,
+        537,
+        538
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                531
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1333,
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1605,7 +1991,6 @@
       "critical": [],
       "nonCritical": [
         3028,
-        424,
         514,
         652,
         653,
@@ -1660,7 +2045,6 @@
       "critical": [],
       "nonCritical": [
         3086,
-        424,
         791,
         846
       ],
@@ -1710,11 +2094,35 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3110
+        3110,
+        730,
+        731,
+        742,
+        744,
+        764
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                732
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -1834,7 +2242,6 @@
       "critical": [],
       "nonCritical": [
         3341,
-        424,
         722,
         784
       ],
@@ -1888,11 +2295,41 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3124
+        3124,
+        1284,
+        606
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                648
+              ]
+            }
+          },
+          {
+            "role": "Gerente Distrital",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1366
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2080,7 +2517,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2173
+        2173,
+        936
       ],
       "note": {
         "exists": false,
@@ -2165,11 +2603,24 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3634
+        3634,
+        614,
+        789,
+        1561
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2199,7 +2650,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3208
+        3208,
+        1308
       ],
       "note": {
         "exists": false,
@@ -2216,7 +2668,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2776
+        2776,
+        1228
       ],
       "note": {
         "exists": false,
@@ -2293,6 +2746,23 @@
     }
   },
   {
+    "name": "Consulta de reservas_Fast",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2211
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
     "name": "Composição de regionais",
     "AD": {
       "exists": false,
@@ -2339,23 +2809,6 @@
       "critical": [],
       "nonCritical": [
         3607
-      ],
-      "note": {
-        "exists": false,
-        "values": []
-      }
-    }
-  },
-  {
-    "name": "GESEG Gestão Casos RBP",
-    "AD": {
-      "exists": false,
-      "values": []
-    },
-    "spocValues": {
-      "critical": [],
-      "nonCritical": [
-        3625
       ],
       "note": {
         "exists": false,
@@ -2426,7 +2879,6 @@
       "critical": [],
       "nonCritical": [
         3119,
-        424,
         514,
         516,
         517,
@@ -2450,7 +2902,6 @@
       "critical": [],
       "nonCritical": [
         3193,
-        424,
         516,
         517,
         642,
@@ -2491,7 +2942,6 @@
       "critical": [],
       "nonCritical": [
         3085,
-        424,
         516,
         517,
         519,
@@ -2559,6 +3009,24 @@
     }
   },
   {
+    "name": "Consulta FATAC_",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1904,
+        3658
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
     "name": "Impressão de Faturas",
     "AD": {
       "exists": false,
@@ -2585,9 +3053,7 @@
       "critical": [],
       "nonCritical": [
         3268,
-        424,
         934,
-        1334,
         1590,
         1836
       ],
@@ -2606,11 +3072,32 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3292
+        3292,
+        767,
+        1136
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                809
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2659,7 +3146,6 @@
       "critical": [],
       "nonCritical": [
         882,
-        1334,
         2849
       ],
       "note": {
@@ -2918,15 +3404,24 @@
       "critical": [],
       "nonCritical": [
         3191,
-        1,
         767,
         768,
-        770,
-        1334
+        770
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748,
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2940,15 +3435,24 @@
       "critical": [],
       "nonCritical": [
         3191,
-        1,
         767,
         768,
-        770,
-        1334
+        770
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748,
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2982,11 +3486,35 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3083
+        3083,
+        593,
+        620,
+        722,
+        728
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                592,
+                720
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -2999,7 +3527,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3512
+        3512,
+        520,
+        625
       ],
       "note": {
         "exists": false,
@@ -3131,7 +3661,6 @@
       "critical": [],
       "nonCritical": [
         2660,
-        424,
         517
       ],
       "note": {
@@ -3251,7 +3780,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3425
+        3425,
+        535,
+        596
       ],
       "note": {
         "exists": false,
@@ -3849,7 +4380,26 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2212
+        2212,
+        1010
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Cad Serviços Agendados x Executados",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        2212,
+        1010
       ],
       "note": {
         "exists": false,
@@ -3917,11 +4467,23 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3222
+        3222,
+        12,
+        722
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                11
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -4388,23 +4950,6 @@
     }
   },
   {
-    "name": "Cad. Fornecedor por Agência Filial",
-    "AD": {
-      "exists": false,
-      "values": []
-    },
-    "spocValues": {
-      "critical": [],
-      "nonCritical": [
-        3584
-      ],
-      "note": {
-        "exists": false,
-        "values": []
-      }
-    }
-  },
-  {
     "name": "Consulta Contratos Cancelados",
     "AD": {
       "exists": false,
@@ -4464,11 +5009,22 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2806
+        2806,
+        791
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -4516,8 +5072,7 @@
       "critical": [],
       "nonCritical": [
         2352,
-        197,
-        424
+        197
       ],
       "note": {
         "exists": false,
@@ -4840,7 +5395,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3061
+        3061,
+        55,
+        293
       ],
       "note": {
         "exists": false,
@@ -5045,7 +5602,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3200
+        3200,
+        472,
+        508
       ],
       "note": {
         "exists": false,
@@ -5184,7 +5743,13 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3106
+        3106,
+        516,
+        517,
+        519,
+        520,
+        625,
+        671
       ],
       "note": {
         "exists": false,
@@ -5218,11 +5783,23 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3484
+        3484,
+        520,
+        625
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                3471
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -5235,7 +5812,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2430
+        2430,
+        541
       ],
       "note": {
         "exists": false,
@@ -5626,7 +6204,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        1964
+        1964,
+        513
       ],
       "note": {
         "exists": false,
@@ -5728,6 +6307,25 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
+        3170,
+        412,
+        548
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Monitor de  Multas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
         3170
       ],
       "note": {
@@ -5763,11 +6361,22 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
+        551,
         2586
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -5916,11 +6525,26 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3139
+        3139,
+        731,
+        872,
+        887,
+        892,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -6052,7 +6676,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3328
+        3328,
+        1310
       ],
       "note": {
         "exists": false,
@@ -6319,6 +6944,26 @@
     }
   },
   {
+    "name": "Gestão da tag",
+    "AD": {
+      "exists": false,
+      "values": [
+        "MsalSpoc-Passfrontend-Prd-consulta-tag"
+      ]
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3108,
+        2897
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
     "name": "Acompanhamento LocalizaFast",
     "AD": {
       "exists": false,
@@ -6361,11 +7006,33 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3337
+        3337,
+        1541
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1448
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                1448,
+                1541
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -6446,7 +7113,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2639
+        2639,
+        959
       ],
       "note": {
         "exists": false,
@@ -6540,6 +7208,23 @@
     }
   },
   {
+    "name": "Cancelar Nota Fatura",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3440
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
     "name": "Ocorrências de Sinistro - Nova",
     "AD": {
       "exists": false,
@@ -6565,11 +7250,23 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3625
+        3625,
+        1496
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                1497
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -6582,11 +7279,73 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3095
+        3095,
+        442,
+        443,
+        444,
+        472
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "note": {
+          "exists": true,
+          "type": [
+            {
+              "role": "Supervisor",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  160
+                ]
+              }
+            },
+            {
+              "role": "Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1334
+                ]
+              }
+            },
+            {
+              "role": "[NCF - SQUAD Capacidade Frota] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1333
+                ]
+              }
+            },
+            {
+              "role": "[SQUAD MegaZord] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1433
+                ]
+              }
+            },
+            {
+              "role": "[SQUAD Experiência de Vendas Seminovos] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1516
+                ]
+              }
+            },
+            {
+              "role": "Gestores Aprovadores",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  445,
+                  557
+                ]
+              }
+            }
+          ]
+        }
       }
     }
   },
@@ -6753,7 +7512,6 @@
       "critical": [],
       "nonCritical": [
         2997,
-        424,
         425,
         503,
         516,
@@ -6834,8 +7592,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3441,
-        424
+        3441
       ],
       "note": {
         "exists": false,
@@ -6886,7 +7643,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3515
+        3515,
+        520,
+        625
       ],
       "note": {
         "exists": false,
@@ -6938,7 +7697,6 @@
       "critical": [],
       "nonCritical": [
         2998,
-        424,
         516,
         517,
         520,
@@ -6951,8 +7709,18 @@
         625
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                592
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -7102,7 +7870,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3531
+        3531,
+        520,
+        835
       ],
       "note": {
         "exists": false,
@@ -7136,7 +7906,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2585
+        2585,
+        625
       ],
       "note": {
         "exists": false,
@@ -7334,23 +8105,31 @@
       "critical": [],
       "nonCritical": [
         3016,
-        424,
         730,
         731,
         732,
         742,
         744,
         747,
-        748,
         761,
         764,
         865,
-        1334,
         1238
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748,
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -7465,11 +8244,51 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3096
+        3096,
+        472
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                160
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          },
+          {
+            "role": "[SQUAD Experiência de Vendas Seminovos] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1516
+              ]
+            }
+          },
+          {
+            "role": "Gestores Aprovadores",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                445,
+                557,
+                1627
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -7544,8 +8363,18 @@
         1418
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -7611,7 +8440,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3315
+        3315,
+        1152
       ],
       "note": {
         "exists": false,
@@ -7713,11 +8543,40 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        2952
+        2952,
+        55,
+        112,
+        113,
+        378,
+        868,
+        900,
+        1517
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                705,
+                894
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -7916,7 +8775,6 @@
         730,
         731,
         855,
-        1334,
         3288
       ],
       "note": {
@@ -8186,7 +9044,6 @@
       "critical": [],
       "nonCritical": [
         3255,
-        424,
         593,
         620
       ],
@@ -8244,7 +9101,6 @@
       "critical": [],
       "nonCritical": [
         3016,
-        424,
         730,
         731,
         732,
@@ -8255,7 +9111,6 @@
         761,
         764,
         865,
-        1334,
         1238
       ],
       "note": {
@@ -8274,7 +9129,6 @@
       "critical": [],
       "nonCritical": [
         3392,
-        424,
         519,
         520
       ],
@@ -8485,7 +9339,6 @@
       "critical": [],
       "nonCritical": [
         3087,
-        424,
         514,
         516,
         517,
@@ -8510,7 +9363,6 @@
       "critical": [],
       "nonCritical": [
         3012,
-        424,
         516,
         517,
         519,
@@ -8575,13 +9427,31 @@
       "critical": [],
       "nonCritical": [
         3099,
-        424,
         514,
         516,
         517,
         518,
         574,
         671
+      ],
+      "note": {
+        "exists": false,
+        "values": []
+      }
+    }
+  },
+  {
+    "name": "Pedido de Carro Provisório - Cadastro",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3390,
+        514,
+        574
       ],
       "note": {
         "exists": false,
@@ -8598,14 +9468,25 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        424,
         514,
+        535,
         574,
         671
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                2428,
+                748
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -8640,7 +9521,6 @@
       "critical": [],
       "nonCritical": [
         2533,
-        424,
         713
       ],
       "note": {
@@ -8695,7 +9575,6 @@
       "critical": [],
       "nonCritical": [
         3193,
-        424,
         516,
         517,
         642,
@@ -8769,7 +9648,6 @@
       "critical": [],
       "nonCritical": [
         1998,
-        424,
         583
       ],
       "note": {
@@ -8807,13 +9685,21 @@
       "critical": [],
       "nonCritical": [
         3376,
-        411,
-        416,
-        1334
+        416
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                411
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -8827,19 +9713,68 @@
       "critical": [],
       "nonCritical": [
         3048,
-        160,
         443,
-        445,
-        472,
-        557,
-        1333,
-        1334,
-        1433,
-        1516
+        472
       ],
       "note": {
         "exists": true,
-        "values": []
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                160
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          },
+          {
+            "role": "[NCF - SQUAD Capacidade Frota] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1333
+              ]
+            }
+          },
+          {
+            "role": "[SQUAD MegaZord] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1433
+              ]
+            }
+          },
+          {
+            "role": "[SQUAD Experiência de Vendas Seminovos] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1516
+              ]
+            }
+          },
+          {
+            "role": "Gestores Aprovadores",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                445,
+                557
+              ]
+            }
+          }
+        ]
       }
     }
   },
@@ -8853,9 +9788,7 @@
       "critical": [],
       "nonCritical": [
         2369,
-        1,
-        26,
-        424
+        26
       ],
       "note": {
         "exists": false,
@@ -8891,10 +9824,8 @@
       "critical": [],
       "nonCritical": [
         3140,
-        424,
         1116,
-        1278,
-        1334
+        1278
       ],
       "note": {
         "exists": false,
@@ -8912,9 +9843,7 @@
       "critical": [],
       "nonCritical": [
         3437,
-        424,
-        664,
-        1334
+        664
       ],
       "note": {
         "exists": false,
@@ -8932,7 +9861,6 @@
       "critical": [],
       "nonCritical": [
         2826,
-        424,
         1337
       ],
       "note": {
@@ -8968,7 +9896,6 @@
       "critical": [],
       "nonCritical": [
         3441,
-        424,
         519,
         520
       ],
@@ -8988,7 +9915,6 @@
       "critical": [],
       "nonCritical": [
         3278,
-        424,
         764
       ],
       "note": {
@@ -9225,7 +10151,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        3583,
+        3584,
         1280
       ],
       "note": {
@@ -9276,7 +10202,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta de reserva",
     "AD": {
       "exists": false,
       "values": []
@@ -9284,7 +10210,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1778,
+        46
       ],
       "note": {
         "exists": false,
@@ -9293,7 +10220,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Análise de Devolução de Carros",
     "AD": {
       "exists": false,
       "values": []
@@ -9301,7 +10228,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2083,
+        712
       ],
       "note": {
         "exists": false,
@@ -9310,7 +10238,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Relatório Reembolso Franqueadora",
     "AD": {
       "exists": false,
       "values": []
@@ -9318,16 +10246,68 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2992,
+        247,
+        480,
+        631
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                201,
+                207,
+                209,
+                257,
+                325,
+                387
+              ]
+            }
+          },
+          {
+            "role": "Gerente",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                201,
+                202,
+                207,
+                209,
+                253,
+                257,
+                325,
+                387
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                201,
+                202,
+                207,
+                209,
+                253,
+                257,
+                325,
+                387,
+                1283,
+                1433
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Atendimento Solicitação de Documentos (GF)",
     "AD": {
       "exists": false,
       "values": []
@@ -9335,7 +10315,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3586,
+        1293
       ],
       "note": {
         "exists": false,
@@ -9344,7 +10325,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manutenção Acessórios Veículos",
     "AD": {
       "exists": false,
       "values": []
@@ -9352,16 +10333,28 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3297,
+        893,
+        1270
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cad. regra de Gestor por Contrato",
     "AD": {
       "exists": false,
       "values": []
@@ -9369,7 +10362,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3491
       ],
       "note": {
         "exists": false,
@@ -9378,7 +10371,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta do Orçamento PT DT",
     "AD": {
       "exists": false,
       "values": []
@@ -9386,16 +10379,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1645,
+        1581
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Parâmetros de Cálculo Por UF",
     "AD": {
       "exists": false,
       "values": []
@@ -9403,16 +10407,28 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2480,
+        574
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                2029,
+                535
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Listagem Grupo Modelo Avarias",
     "AD": {
       "exists": false,
       "values": []
@@ -9420,7 +10436,10 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2503,
+        514,
+        574,
+        690
       ],
       "note": {
         "exists": false,
@@ -9429,7 +10448,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Listagem Faixa Valores Avarias",
     "AD": {
       "exists": false,
       "values": []
@@ -9437,16 +10456,23 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2502,
+        514,
+        574
       ],
       "note": {
         "exists": false,
-        "values": []
+        "type": [
+          {
+            "exists": false,
+            "values": []
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Lançamento de Depósitos",
     "AD": {
       "exists": false,
       "values": []
@@ -9454,16 +10480,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1938,
+        436
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                481
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Lançamento de Despesas",
     "AD": {
       "exists": false,
       "values": []
@@ -9471,7 +10508,11 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1939,
+        436,
+        982,
+        1082,
+        1314
       ],
       "note": {
         "exists": false,
@@ -9480,7 +10521,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Listagem Centralizadas SL SA",
     "AD": {
       "exists": false,
       "values": []
@@ -9488,16 +10529,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2867,
+        1437
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastrar Alterar horários de agências",
     "AD": {
       "exists": false,
       "values": []
@@ -9505,16 +10557,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3603,
+        1105
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                557
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Horário Funcionamento Agências (Antiga)",
     "AD": {
       "exists": false,
       "values": []
@@ -9522,7 +10585,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3570
       ],
       "note": {
         "exists": false,
@@ -9531,7 +10594,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Aceite Eletrônico WebCorp",
     "AD": {
       "exists": false,
       "values": []
@@ -9539,7 +10602,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2349,
+        1,
+        46
       ],
       "note": {
         "exists": false,
@@ -9548,7 +10613,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Histórico CRLV",
     "AD": {
       "exists": false,
       "values": []
@@ -9556,16 +10621,51 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2923,
+        55,
+        63,
+        112,
+        113,
+        119,
+        125,
+        126,
+        127,
+        129,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                120,
+                160,
+                705
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Indicador de Desempenho",
     "AD": {
       "exists": false,
       "values": []
@@ -9573,16 +10673,37 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2980,
+        1,
+        55,
+        112,
+        113,
+        286,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                160,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Placas Marcadas - Listagem",
     "AD": {
       "exists": false,
       "values": []
@@ -9590,16 +10711,35 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3482
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                720
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Motivos de Placas Marcadas - Listagem",
     "AD": {
       "exists": false,
       "values": []
@@ -9607,16 +10747,35 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3481
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                720
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta de Cliente",
     "AD": {
       "exists": false,
       "values": []
@@ -9624,7 +10783,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2210,
+        774
       ],
       "note": {
         "exists": false,
@@ -9633,7 +10793,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Pessoas Físicas com Contratos Faturados",
     "AD": {
       "exists": false,
       "values": []
@@ -9641,7 +10801,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2724,
+        1113
       ],
       "note": {
         "exists": false,
@@ -9650,7 +10811,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Viagens",
     "AD": {
       "exists": false,
       "values": []
@@ -9658,16 +10819,36 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3615,
+        1431
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1439
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Agrupamento de Modelos",
     "AD": {
       "exists": false,
       "values": []
@@ -9675,16 +10856,28 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2797,
+        690,
+        1263
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1559
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Conferência de Chaves",
     "AD": {
       "exists": false,
       "values": []
@@ -9692,16 +10885,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3610,
+        413
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta CNPJ",
     "AD": {
       "exists": false,
       "values": []
@@ -9709,7 +10913,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1774
       ],
       "note": {
         "exists": false,
@@ -9718,7 +10922,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Desvinculação Das SSs",
     "AD": {
       "exists": false,
       "values": []
@@ -9726,7 +10930,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1630,
+        1344
       ],
       "note": {
         "exists": false,
@@ -9735,7 +10940,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manual de Operação",
     "AD": {
       "exists": false,
       "values": []
@@ -9743,16 +10948,44 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3013,
+        201,
+        203,
+        205,
+        206,
+        208,
+        210,
+        240,
+        480
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                207
+              ]
+            }
+          },
+          {
+            "role": "Gerente",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                202,
+                211
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Acompanhamento Fila Demonstrativo Faturas",
     "AD": {
       "exists": false,
       "values": []
@@ -9760,7 +10993,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        520
       ],
       "note": {
         "exists": false,
@@ -9769,7 +11002,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Alterar Situação Fatura",
     "AD": {
       "exists": false,
       "values": []
@@ -9777,7 +11010,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2879,
+        520
       ],
       "note": {
         "exists": false,
@@ -9786,7 +11020,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cancelamento Reajuste Acréscimo",
     "AD": {
       "exists": false,
       "values": []
@@ -9794,7 +11028,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2661,
+        520
       ],
       "note": {
         "exists": false,
@@ -9803,7 +11038,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta de Notas Fiscais (GF)",
     "AD": {
       "exists": false,
       "values": []
@@ -9811,7 +11046,10 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3204,
+        520,
+        625,
+        1218
       ],
       "note": {
         "exists": false,
@@ -9820,7 +11058,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Gerar Nota de Crédito",
     "AD": {
       "exists": false,
       "values": []
@@ -9828,7 +11066,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2506,
+        520
       ],
       "note": {
         "exists": false,
@@ -9837,7 +11076,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Gestão da Cobrança",
     "AD": {
       "exists": false,
       "values": []
@@ -9845,7 +11084,11 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3155,
+        519,
+        520,
+        625,
+        787
       ],
       "note": {
         "exists": false,
@@ -9854,7 +11097,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Lançamentos manuais de Diárias e Valores",
     "AD": {
       "exists": false,
       "values": []
@@ -9862,16 +11105,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2537,
+        520
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                2507
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Limpa Data De Geracao De NF",
     "AD": {
       "exists": false,
       "values": []
@@ -9879,7 +11133,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3443,
+        519,
+        520
       ],
       "note": {
         "exists": false,
@@ -9888,7 +11144,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Reajuste Acréscimo de Valores",
     "AD": {
       "exists": false,
       "values": []
@@ -9896,7 +11152,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3545,
+        520,
+        625
       ],
       "note": {
         "exists": false,
@@ -9905,7 +11163,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Exclusão de Pendências",
     "AD": {
       "exists": false,
       "values": []
@@ -9913,16 +11171,34 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2304,
+        55,
+        112,
+        113,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Exclusão de Pendencias",
     "AD": {
       "exists": false,
       "values": []
@@ -9930,16 +11206,34 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2304,
+        55,
+        112,
+        113,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Listagem de Ocorrências",
     "AD": {
       "exists": false,
       "values": []
@@ -9947,7 +11241,11 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3216,
+        1538,
+        1557,
+        1558,
+        1586
       ],
       "note": {
         "exists": false,
@@ -9956,7 +11254,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Fechamento Contratos Dynatrace",
     "AD": {
       "exists": false,
       "values": []
@@ -9964,7 +11262,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3648
       ],
       "note": {
         "exists": false,
@@ -9973,7 +11271,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Alteração Boletim Ocorrência Sinistro",
     "AD": {
       "exists": false,
       "values": []
@@ -9981,16 +11279,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3563,
+        1061
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastra Situação Transação TEF",
     "AD": {
       "exists": false,
       "values": []
@@ -9998,7 +11307,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2664,
+        964
       ],
       "note": {
         "exists": false,
@@ -10007,7 +11317,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastra Tipo Transação - SITEF",
     "AD": {
       "exists": false,
       "values": []
@@ -10015,7 +11325,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2665,
+        963
       ],
       "note": {
         "exists": false,
@@ -10024,7 +11335,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Proposta de Carro Provisório - Cadastro",
     "AD": {
       "exists": false,
       "values": []
@@ -10032,16 +11343,31 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3177,
+        3240,
+        514,
+        535,
+        574,
+        671
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Proposta de Carro Provisório - Cadastro_",
     "AD": {
       "exists": false,
       "values": []
@@ -10049,16 +11375,31 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3177,
+        3240,
+        514,
+        535,
+        574,
+        671
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Análise de No Show",
     "AD": {
       "exists": false,
       "values": []
@@ -10066,7 +11407,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2085,
+        712
       ],
       "note": {
         "exists": false,
@@ -10075,7 +11417,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta Log Exportação SS",
     "AD": {
       "exists": false,
       "values": []
@@ -10083,16 +11425,39 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3326,
+        767
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                769,
+                809
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334,
+                3527,
+                780
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Relação das Centralizadas Exportadas ao Fi",
     "AD": {
       "exists": false,
       "values": []
@@ -10100,16 +11465,29 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3231,
+        390,
+        391,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                389
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastro Contrato - Carregar",
     "AD": {
       "exists": false,
       "values": []
@@ -10117,7 +11495,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2572,
+        596,
+        671
       ],
       "note": {
         "exists": false,
@@ -10126,7 +11506,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Autonomia Aluguel Mensal",
     "AD": {
       "exists": false,
       "values": []
@@ -10134,7 +11514,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1719
       ],
       "note": {
         "exists": false,
@@ -10143,7 +11523,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manutenção Tipo de Tarifa",
     "AD": {
       "exists": false,
       "values": []
@@ -10151,7 +11531,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2780,
+        1229
       ],
       "note": {
         "exists": false,
@@ -10160,7 +11541,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Realocação de Pedidos",
     "AD": {
       "exists": false,
       "values": []
@@ -10168,7 +11549,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2833,
+        812
       ],
       "note": {
         "exists": false,
@@ -10177,7 +11559,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastro Recursos",
     "AD": {
       "exists": false,
       "values": []
@@ -10185,16 +11567,36 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3374
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748,
+                1334
+              ]
+            }
+          },
+          {
+            "role": "[SQUAD MegaZord] Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1433
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastro de Exceção de Permissão",
     "AD": {
       "exists": false,
       "values": []
@@ -10202,16 +11604,28 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3523,
+        872,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Listagem Aprovação Operações",
     "AD": {
       "exists": false,
       "values": []
@@ -10219,7 +11633,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3385,
+        444
       ],
       "note": {
         "exists": false,
@@ -10228,7 +11643,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cancelamento de Pedido",
     "AD": {
       "exists": false,
       "values": []
@@ -10236,7 +11651,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2622,
+        893
       ],
       "note": {
         "exists": false,
@@ -10245,7 +11661,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Fila - Listagem de Monitoramento",
     "AD": {
       "exists": false,
       "values": []
@@ -10253,16 +11669,39 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3082,
+        722,
+        725,
+        728,
+        736
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                720
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Cálculos",
     "AD": {
       "exists": false,
       "values": []
@@ -10270,7 +11709,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1669
       ],
       "note": {
         "exists": false,
@@ -10279,7 +11718,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Acompanhamento Exportação SS",
     "AD": {
       "exists": false,
       "values": []
@@ -10287,7 +11726,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1595,
+        862
       ],
       "note": {
         "exists": false,
@@ -10296,7 +11736,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cadastro de Motorista",
     "AD": {
       "exists": false,
       "values": []
@@ -10304,7 +11744,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        9999,
+        950
       ],
       "note": {
         "exists": false,
@@ -10313,7 +11754,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manutenção de Acordo Comercial",
     "AD": {
       "exists": false,
       "values": []
@@ -10321,7 +11762,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2787,
+        1242
       ],
       "note": {
         "exists": false,
@@ -10330,7 +11772,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manutenção Preço de Motorista",
     "AD": {
       "exists": false,
       "values": []
@@ -10338,7 +11780,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2706,
+        944
       ],
       "note": {
         "exists": false,
@@ -10347,7 +11790,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Manutenção Tipo De Motorista",
     "AD": {
       "exists": false,
       "values": []
@@ -10355,7 +11798,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2614,
+        949
       ],
       "note": {
         "exists": false,
@@ -10364,7 +11808,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "AdmContratos - Item",
     "AD": {
       "exists": false,
       "values": []
@@ -10372,7 +11816,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2098,
+        671,
+        517
       ],
       "note": {
         "exists": false,
@@ -10381,7 +11827,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Gestão de Franquias",
     "AD": {
       "exists": false,
       "values": []
@@ -10389,16 +11835,41 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3088,
+        210,
+        211,
+        247,
+        262
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                209,
+                259,
+                266
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1283
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Consulta de Antecipações (Operações)",
     "AD": {
       "exists": false,
       "values": []
@@ -10406,16 +11877,36 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3543,
+        882
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                915
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Extrato de Benefícios do Cliente",
     "AD": {
       "exists": false,
       "values": []
@@ -10423,7 +11914,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2003,
+        584
       ],
       "note": {
         "exists": false,
@@ -10432,7 +11924,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Extrato de passagens Pass",
     "AD": {
       "exists": false,
       "values": []
@@ -10440,16 +11932,44 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2994,
+        55,
+        293,
+        378,
+        1387,
+        1389,
+        1485,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                160,
+                776
+              ]
+            }
+          },
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                748,
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Digitação da SSs Pagadora",
     "AD": {
       "exists": false,
       "values": []
@@ -10457,16 +11977,27 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3596,
+        1367
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Sustentação/Desenvolvimento",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                1334
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Entrega de Pedidos",
     "AD": {
       "exists": false,
       "values": []
@@ -10474,7 +12005,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1637,
+        1468
       ],
       "note": {
         "exists": false,
@@ -10483,7 +12015,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Alerta NPS",
     "AD": {
       "exists": false,
       "values": []
@@ -10491,16 +12023,36 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2954,
+        55,
+        112,
+        113,
+        293,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                160,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Alfabeto Fonetico",
     "AD": {
       "exists": false,
       "values": []
@@ -10508,7 +12060,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1970
       ],
       "note": {
         "exists": false,
@@ -10517,7 +12069,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Speeches",
     "AD": {
       "exists": false,
       "values": []
@@ -10525,16 +12077,35 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2969,
+        55,
+        112,
+        113,
+        378,
+        868,
+        1284
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                60,
+                91,
+                160,
+                705
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "admin.pesquisa.nps",
     "AD": {
       "exists": false,
       "values": []
@@ -10542,7 +12113,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2286
       ],
       "note": {
         "exists": false,
@@ -10551,7 +12122,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Serviços por Placa",
     "AD": {
       "exists": false,
       "values": []
@@ -10559,7 +12130,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3324,
+        1116,
+        1180
       ],
       "note": {
         "exists": false,
@@ -10568,7 +12141,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Acompanhamento Estoque",
     "AD": {
       "exists": false,
       "values": []
@@ -10576,7 +12149,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2887,
+        1536
       ],
       "note": {
         "exists": false,
@@ -10585,7 +12159,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Solicitar Ação",
     "AD": {
       "exists": false,
       "values": []
@@ -10593,16 +12167,77 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3117,
+        442,
+        443,
+        472
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "note": {
+          "exists": true,
+          "type": [
+            {
+              "role": "Supervisor",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  160
+                ]
+              }
+            },
+            {
+              "role": "Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1334
+                ]
+              }
+            },
+            {
+              "role": "[NCF - SQUAD Capacidade Frota] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1333
+                ]
+              }
+            },
+            {
+              "role": "[SQUAD MegaZord] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1433
+                ]
+              }
+            },
+            {
+              "role": "[SQUAD Experiência de Vendas Seminovos] Sustentação/Desenvolvimento",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  1516
+                ]
+              }
+            },
+            {
+              "role": "Gestores Aprovadores",
+              "spocValues": {
+                "critical": [],
+                "nonCritical": [
+                  445,
+                  557
+                ]
+              }
+            }
+          ]
+        }
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Gestão de Grupos",
     "AD": {
       "exists": false,
       "values": []
@@ -10610,7 +12245,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3347,
+        472
       ],
       "note": {
         "exists": false,
@@ -10619,7 +12255,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Gestão de perfil de acesso",
     "AD": {
       "exists": false,
       "values": []
@@ -10627,7 +12263,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1943,
+        164
       ],
       "note": {
         "exists": false,
@@ -10636,7 +12273,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Marcar Cliente",
     "AD": {
       "exists": false,
       "values": []
@@ -10644,7 +12281,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2641,
+        517
       ],
       "note": {
         "exists": false,
@@ -10653,7 +12291,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Solicitação de Cálculo da Precificação MEOO",
     "AD": {
       "exists": false,
       "values": []
@@ -10661,7 +12299,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2293
       ],
       "note": {
         "exists": false,
@@ -10670,7 +12308,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Vinculo Modelo Categoria",
     "AD": {
       "exists": false,
       "values": []
@@ -10678,7 +12316,9 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2889,
+        596,
+        690
       ],
       "note": {
         "exists": false,
@@ -10687,7 +12327,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Vínculo Modelo com Categoria Site MEOO",
     "AD": {
       "exists": false,
       "values": []
@@ -10695,7 +12335,11 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3632,
+        514,
+        574,
+        671,
+        690
       ],
       "note": {
         "exists": false,
@@ -10704,7 +12348,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Cancelamento de Vendas Via Cartas",
     "AD": {
       "exists": false,
       "values": []
@@ -10712,7 +12356,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1652,
+        1175
       ],
       "note": {
         "exists": false,
@@ -10721,7 +12366,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Autorização de Reembolso",
     "AD": {
       "exists": false,
       "values": []
@@ -10729,7 +12374,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1791,
+        137
       ],
       "note": {
         "exists": false,
@@ -10738,7 +12384,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Histórico Depósito Segurança Drivers",
     "AD": {
       "exists": false,
       "values": []
@@ -10746,7 +12392,8 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2163,
+        895
       ],
       "note": {
         "exists": false,
@@ -10755,7 +12402,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Confirma Reembolso Via Cartão de Crédito",
     "AD": {
       "exists": false,
       "values": []
@@ -10763,16 +12410,55 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3388,
+        137
       ],
       "note": {
-        "exists": false,
-        "values": []
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                160
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Críticas de Multas",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        3380,
+        412
+      ],
+      "note": {
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                483
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Gestão de Infrações de Trânsito",
     "AD": {
       "exists": false,
       "values": []
@@ -10780,7 +12466,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3700
       ],
       "note": {
         "exists": false,
@@ -10789,7 +12475,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Planejamento de Lavagem - Supervisor",
     "AD": {
       "exists": false,
       "values": []
@@ -10797,7 +12483,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        3706
       ],
       "note": {
         "exists": false,
@@ -10806,7 +12492,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Acompanhamento Conferência Prévia",
     "AD": {
       "exists": false,
       "values": []
@@ -10814,16 +12500,43 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1772
       ],
       "note": {
         "exists": false,
         "values": []
+      }
+    }
+  },
+  {
+    "name": "Cancelamento de Fatura Avulsa_Bak",
+    "AD": {
+      "exists": false,
+      "values": []
+    },
+    "spocValues": {
+      "critical": [],
+      "nonCritical": [
+        1913
+      ],
+      "note": {
+        "exists": true,
+        "type": [
+          {
+            "role": "Supervisor",
+            "spocValues": {
+              "critical": [],
+              "nonCritical": [
+                415
+              ]
+            }
+          }
+        ]
       }
     }
   },
   {
-    "name": "Xx",
+    "name": "Emissão de Faturas",
     "AD": {
       "exists": false,
       "values": []
@@ -10831,7 +12544,10 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2332,
+        1135,
+        133,
+        1128
       ],
       "note": {
         "exists": false,
@@ -10840,7 +12556,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Emissão de faturas de NFs",
     "AD": {
       "exists": false,
       "values": []
@@ -10848,7 +12564,10 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        2734,
+        133,
+        1135,
+        1128
       ],
       "note": {
         "exists": false,
@@ -10857,7 +12576,7 @@
     }
   },
   {
-    "name": "Xx",
+    "name": "Redigitalizar Fatura",
     "AD": {
       "exists": false,
       "values": []
@@ -10865,7 +12584,7 @@
     "spocValues": {
       "critical": [],
       "nonCritical": [
-        9999
+        1958
       ],
       "note": {
         "exists": false,
