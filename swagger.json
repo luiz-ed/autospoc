@@ -24,9 +24,14 @@
   ],
   "servers": [
     {
-      "url": "http://localhost:3001",
-      "description": "Local server"
+      "url": "https://luiz-ed.github.io/autospoc",
+      "description": "Remote server"
     }
+  ],
+  "host": "https://luiz-ed.github.io/autospoc",
+  "basePath": "/",
+  "schemes": [
+    "https"
   ],
   "paths": {
     "/process": {
