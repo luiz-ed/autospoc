@@ -1,0 +1,20 @@
+{
+  "name": "draft-autobot-v4",
+  "version": "1.0.0",
+  "main": "teste.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch teste.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "swagger-ui-dist": "^5.28.1",
+    "swagger-ui-express": "^5.0.1",
+    "xlsx": "^0.18.5"
+  }
+}

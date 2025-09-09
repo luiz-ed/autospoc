@@ -1,0 +1,197 @@
+{
+  "openapi": "3.0.2",
+  "info": {
+    "title": "[PoC] autoSPOC",
+    "version": "1.4.3",
+    "description": "API para consulta e processamento dos dados de telas SPOC e grupos de acesso Gestão de Frotas, com retornos facilitados o analista.\n\nLinks úteis:\n- [Planilha mapeadora de grupos](https://localiza-my.sharepoint.com/:x:/r/personal/anderson_souza_localiza_com/_layouts/15/doc2.aspx?sourcedoc=%7B484ec188-af95-48d6-be16-09b298c89de8%7D&action=view)\n- [Planilha De - Para telas SPOC](https://localiza.sharepoint.com/:x:/r/sites/GestodeAcessos799/_layouts/15/doc2.aspx?sourcedoc=%7B99DD34BB-FB71-41B0-B686-DE34B2B89A06%7D&file=DE%20PARA%20-%20TELAS%20DO%20SPOC.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1)\n- [Planilha telas SPOC ativas](https://localiza-my.sharepoint.com/:x:/r/personal/anderson_souza_localiza_com/_layouts/15/doc2.aspx?sourcedoc=%7Bb7c23da2-9495-448c-9f2c-db48755231f0%7D&action=edit&activeCell=%27Planilha1%27!B2039&wdinitialsession=688162c2-91b6-43d5-f574-81782fdea182&wdrldsc=3&wdrldc=1&wdrldr=AccessTokenExpiredWarningGatekeeperCookieMismatch%2C) (data de corte: 08/06/2025)",
+    "contact": {
+      "email": "luis.epenha@localiza.com"
+    }
+  },
+  "tags": [
+    {
+      "name": "Processamento SPOC",
+      "description": "Operação de consulta e processamento de retorno de telas SPOC"
+    },
+    {
+      "name": "Processamento GF",
+      "description": "Operação de consulta e processamento de retorno de grupos Gestão de Frotas"
+    },
+    {
+      "name": "Dados das Telas",
+      "description": "Operações CRUD para dados das telas SPOC"
+    }
+  ],
+  "servers": [
+    {
+      "url": "http://localhost:3001",
+      "description": "Local server"
+    }
+  ],
+  "paths": {
+    "/process": {
+      "get": {
+        "tags": [
+          "Processamento SPOC"
+        ],
+        "summary": "Processa telas SPOC e retorna resultado formatado",
+        "description": "Recebe uma string de telas SPOC via query param 'screenSearched' e retorna o resultado processado em texto puro.",
+        "parameters": [
+          {
+            "name": "screenSearched",
+            "in": "query",
+            "description": "String de telas SPOC para processar",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "example": "SPOC - Cadastro Solicitação de LavagemSPOC - Movimentação de Veículos Retroativa"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Resultado processado em texto puro",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "2382\n393\n3203\n1233\n2703\n1132\n\n[Supervisor] Cadastro Solicitação de Lavagem: 2732;392;556;612;663;753\n[Supervisor] Movimentação de Veículos Retroativa: 160;776\n[Sustentação/Desenvolvimento] Movimentação de Veículos Retroativa: 160;776;1334"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Tela para busca não encontrada"
+          }
+        }
+      }
+    },
+    "/parseFleet": {
+      "post": {
+        "tags": [
+          "Processamento GF"
+        ],
+        "summary": "Recebe uma relação de grupos GF em .xlsx e os retorna em texto puro",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary",
+                    "description": ".xlsx dos grupos GF da matrícula base"
+                  }
+                },
+                "required": [
+                  "file"
+                ]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Grupos GF processados em text/plain",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "Atendente RAC\nCentral RAC\nNOVO AGENDAMENTO RAC"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/screensData": {
+      "get": {
+        "tags": [
+          "Dados das Telas"
+        ],
+        "summary": "Retorna os dados de uma tela (GET)",
+        "responses": {
+          "200": {
+            "description": "Dados processados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro ao processar a string"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Dados das Telas"
+        ],
+        "summary": "Adiciona um grupo de dados de uma tela (POST)",
+        "responses": {
+          "200": {
+            "description": "Dados processados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro ao processar a string"
+          }
+        }
+      },
+      "patch": {
+        "tags": [
+          "Dados das Telas"
+        ],
+        "summary": "Altera um trecho de dado de alguma tela (PATCH)",
+        "responses": {
+          "200": {
+            "description": "Dados processados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro ao processar a string"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Dados das Telas"
+        ],
+        "summary": "Deleta o grupo dados de uma tela (DELETE)",
+        "responses": {
+          "200": {
+            "description": "Dados processados",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro ao processar a string"
+          }
+        }
+      }
+    }
+  }
+}
