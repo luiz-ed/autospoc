@@ -28,7 +28,7 @@
       "description": "Remote server"
     }
   ],
-  "host": "luiz-ed.github.io/autospoc",
+  "host": "luiz-ed.github.io/autospoc/",
   "basePath": "/",
   "schemes": [
     "https"
