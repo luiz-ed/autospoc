@@ -21,6 +21,14 @@ app.use((req, res, next) => {
   next();
 });
 
+app.use((req, res, next) => {
+  res.header("Acess-Control-Allow-Origin", '*');
+  res.header("Access-Control-Allow-Headers", '*');
+  res.header("Access-Control-Allow-Methods", '*');
+  
+  next();
+});
+
 app.listen(PORT, () => {
   console.log(`Listening @ PORT ${PORT}`)
 });
