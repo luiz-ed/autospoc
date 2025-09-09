@@ -1,4 +1,5 @@
 import express from "express";
+import cors from "cors";
 import xlsx from "xlsx";
 import multer from 'multer';
 import swaggerUi from 'swagger-ui-express';
@@ -22,12 +23,13 @@ app.use((req, res, next) => {
 });
 
 app.use((req, res, next) => {
-  res.header("Acess-Control-Allow-Origin", '*');
-  res.header("Access-Control-Allow-Headers", '*');
+  res.header("Access-Control-Allow-Origin", '*');
   res.header("Access-Control-Allow-Methods", '*');
   
   next();
 });
+
+app.use(cors());
 
 app.listen(PORT, () => {
   console.log(`Listening @ PORT ${PORT}`)
