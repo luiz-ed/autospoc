@@ -7,13 +7,6 @@ const __dirname = dirname(__filename);
 
 const DATA_PATH = './data.json';
 const WRITE_PATH = "./bucha-de-canhao-da-poc.txt"
-// const { readFile, writeFile } = require('node:fs/promises');
-// const { resolve } = require('node:path');
-
-
-// const DATA_PATH = './data.json';
-// const WRITE_PATH = "./bucha-de-canhao-da-poc.txt"
-
 
 async function readData(){
   try {
@@ -25,17 +18,6 @@ async function readData(){
     return null;
   }
 }
-
-// async function read(){
-//   const data = await readData();
-// console.log(data.map((screenData, index) => {
-//     return `${index} - ${screenData.name}`;
-//   }));
-
-//   return;
-// }
-// read();
-
 
 async function writeData(newData){
   const content = Array.isArray(newData) ? newData.join('\n') : String(newData);
